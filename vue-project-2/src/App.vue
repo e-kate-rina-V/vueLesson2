@@ -1,7 +1,7 @@
 <template>
   <header>
     <div class="wrapper">
-       <ReactiveComponent />
+      <ReactiveComponent />
     </div>
   </header>
 </template>
@@ -42,7 +42,7 @@ header {
     display: flex;
     place-items: flex-start;
     flex-wrap: wrap;
-    width:100%;
+    width: 100%;
   }
 }
 </style>
